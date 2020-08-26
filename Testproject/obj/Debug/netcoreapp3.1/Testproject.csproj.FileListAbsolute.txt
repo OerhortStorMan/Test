@@ -1,0 +1,13 @@
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\bin\Debug\netcoreapp3.1\Testproject.exe
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\bin\Debug\netcoreapp3.1\Testproject.deps.json
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\bin\Debug\netcoreapp3.1\Testproject.runtimeconfig.json
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\bin\Debug\netcoreapp3.1\Testproject.runtimeconfig.dev.json
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\bin\Debug\netcoreapp3.1\Testproject.dll
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\bin\Debug\netcoreapp3.1\Testproject.pdb
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\obj\Debug\netcoreapp3.1\Testproject.csprojAssemblyReference.cache
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\obj\Debug\netcoreapp3.1\Testproject.AssemblyInfoInputs.cache
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\obj\Debug\netcoreapp3.1\Testproject.AssemblyInfo.cs
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\obj\Debug\netcoreapp3.1\Testproject.csproj.CoreCompileInputs.cache
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\obj\Debug\netcoreapp3.1\Testproject.dll
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\obj\Debug\netcoreapp3.1\Testproject.pdb
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Test\Testproject\obj\Debug\netcoreapp3.1\Testproject.genruntimeconfig.cache
