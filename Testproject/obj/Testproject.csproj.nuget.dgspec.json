@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\Testproject.csproj": {}
+    "c:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\Testproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\Testproject.csproj": {
+    "c:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\Testproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\Testproject.csproj",
+        "projectUniqueName": "c:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\Testproject.csproj",
         "projectName": "Testproject",
-        "projectPath": "C:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\Testproject.csproj",
+        "projectPath": "c:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\Testproject.csproj",
         "packagesPath": "C:\\Users\\love.winelid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\obj\\",
+        "outputPath": "c:\\Users\\love.winelid\\Documents\\GitHub\\Programmering 2\\Test\\Testproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\love.winelid\\AppData\\Roaming\\NuGet\\NuGet.Config",
